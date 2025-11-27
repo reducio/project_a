@@ -1,0 +1,3 @@
+[submodule "project_b.git"]
+	path = project_b
+	url = https://github.com/reducio/project_b.git
